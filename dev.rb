@@ -1,1 +1,1 @@
-puts "some"
+puts 'some'
